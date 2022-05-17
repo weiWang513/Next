@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <g id="页面-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <g id="Sprites_img" transform="translate(-350.000000, 0.000000)">
+            <g id="编组备份-6" transform="translate(350.000000, 0.000000)">
+                <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                <path d="M7.29289322,10.2928932 L4.85355339,7.85355339 C4.65829124,7.65829124 4.65829124,7.34170876 4.85355339,7.14644661 C4.94732158,7.05267842 5.07449854,7 5.20710678,7 L10.7928932,7 C11.0690356,7 11.2928932,7.22385763 11.2928932,7.5 C11.2928932,7.63260824 11.2402148,7.7597852 11.1464466,7.85355339 L8.70710678,10.2928932 C8.31658249,10.6834175 7.68341751,10.6834175 7.29289322,10.2928932 Z" id="路径-2" fill="#6F5AFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

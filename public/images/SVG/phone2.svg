@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <defs>
+        <linearGradient x1="53.8714389%" y1="100%" x2="46.1837012%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#6A45FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#6A45FF" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <g id="Sprites_img" transform="translate(-416.000000, -72.000000)">
+            <g id="编组-46" transform="translate(416.000000, 72.000000)">
+                <g id="编组-11">
+                    <rect id="矩形" x="0" y="0" width="28" height="28"></rect>
+                    <g id="编组-5" transform="translate(6.000000, 3.000000)">
+                        <rect id="矩形" stroke="#220A60" strokeWidth="2" x="1" y="1" width="13" height="19" rx="2"></rect>
+                        <rect id="矩形" fill="url(#linearGradient-1)" x="2" y="2" width="11" height="17"></rect>
+                        <path d="M9,4 C9.55228475,4 10,4.44771525 10,5 C10,5.55228475 9.55228475,6 9,6 L5.999,6 L6,9 C6,9.55228475 5.55228475,10 5,10 C4.44771525,10 4,9.55228475 4,9 L4,5 C4,4.44771525 4.44771525,4 5,4 L9,4 Z" id="形状结合" fill="#FFFFFF"></path>
+                        <rect id="矩形" fill="#220A60" x="4" y="15" width="7" height="2" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

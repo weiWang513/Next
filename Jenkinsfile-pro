@@ -1,0 +1,30 @@
+pipeline {
+    agent any
+    
+    environment {
+                
+                def namespace = input message: 'Where do you want to deploy to which namespace?', ok: 'commit', parameters: [choice(choices: [ 'blue', 'green'], description: 'blue,green', name: 'namespace')]
+                def imageTag =  sh(script: "git rev-parse --short HEAD", returnStdout: true).trim()
+            }
+
+    stages {
+        stage('Package') {
+            steps {
+                sh "chmod +x ./make-pro.sh"
+                sh "./make-pro.sh package  ${namespace} ${imageTag}"
+
+            }
+        }
+        stage('Build') {
+            steps {
+              sh "./make-pro.sh  build ${namespace} ${imageTag}"
+            }
+        }
+        
+         stage('Deploy') {
+            steps {
+                sh "./make-pro.sh  deploy ${namespace} ${imageTag}"
+            }
+        }
+    }
+}

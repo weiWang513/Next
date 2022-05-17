@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <g id="页面-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <g id="Sprites_img" transform="translate(-444.000000, -72.000000)">
+            <g id="Android-icon" transform="translate(444.000000, 72.000000)">
+                <rect id="矩形" x="0" y="0" width="26" height="26"></rect>
+                <path d="M17.778,1 C14.952,1.114 12.646,4.079 12.967,6.531 C15.58,6.734 18.086,3.806 17.778,1 M23,18.606 C22.214,20.887 19.861,24.924 17.436,24.968 C15.829,24.999 15.311,24.015 13.474,24.015 C11.637,24.015 11.062,24.937 9.542,24.998 C6.97,25.097 3,19.171 3,14.003 C3,9.256 6.308,6.903 9.198,6.86 C10.748,6.832 12.212,7.905 13.157,7.905 C14.106,7.905 15.883,6.615 17.753,6.804 C18.535,6.837 20.732,7.119 22.141,9.181 C18.401,11.623 18.984,16.729 23,18.606" id="Fill-1" fill="#130F1D"></path>
+            </g>
+        </g>
+    </g>
+</svg>

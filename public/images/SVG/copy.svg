@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <g id="页面-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <g id="Sprites_img" transform="translate(-570.000000, 0.000000)" fill="#665F7A">
+            <g id="编组-8" transform="translate(570.000000, 0.000000)">
+                <path d="M12,6 C13.1045695,6 14,6.8954305 14,8 L14,16 C14,17.1045695 13.1045695,18 12,18 L6,18 C4.8954305,18 4,17.1045695 4,16 L4,8 C4,6.8954305 4.8954305,6 6,6 L12,6 Z M12,8 L6,8 L6,16 L12,16 L12,8 Z" id="形状结合"></path>
+                <path d="M15,5 L7,5 C7,3.8954305 7.8954305,3 9,3 L15,3 C16.1045695,3 17,3.8954305 17,5 L17,13 C17,14.1045695 16.1045695,15 15,15 L15,5 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

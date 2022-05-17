@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <g id="Home" transform="translate(-1370.000000, -208.000000)">
+            <g id="编组-22" transform="translate(0.000000, -30.000000)">
+                <g id="编组-9" transform="translate(1170.000000, 151.000000)">
+                    <g id="编组-11" transform="translate(40.000000, 80.000000)">
+                        <g id="编组-14" transform="translate(32.000000, 7.000000)">
+                            <g id="编组-60" transform="translate(128.000000, 0.000000)">
+                                <rect id="矩形" x="0" y="0" width="16" height="16"></rect>
+                                <path d="M10.5,7 L10.5,5 C10.5,3.3435 9.1565,2 7.5,2 C5.8435,2 4.5,3.3435 4.5,5 L4.5,7 L3,7 L3,14 L12,14 L12,7 L10.5,7 Z M5.5,5 C5.5,3.897 6.397,3 7.5,3 C8.6025,3 9.5,3.897 9.5,5 L9.5,7 L5.5,7 L5.5,5 Z M5.783,10.622 L6.369,10.0355 L7.204,10.827 L8.986,9 L9.573,9.5865 L7.204,12 L5.783,10.622 Z" id="形状" fill="#14AF81" fillRule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

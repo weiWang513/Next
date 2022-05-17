@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="24px" viewBox="0 0 22 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PC端下载页备份-2" transform="translate(-766.000000, -736.000000)">
+            <g id="Android备份" transform="translate(744.000000, 724.000000)">
+                <g id="Google-icon" transform="translate(20.000000, 11.000000)">
+                    <rect id="矩形" x="0" y="0" width="26" height="26"></rect>
+                    <g transform="translate(2.000000, 1.000000)" id="路径">
+                        <path d="M0.46,0.433164427 C0.55,0.346164427 0.651,0.270164427 0.763,0.206164427 C1.236,-0.0648355728 1.819,-0.0688355728 2.295,0.195164427 L14.948,7.21016443 L11.102,11.0451644 L0.46,0.433164427 Z" fill="#09EF76"></path>
+                        <path d="M16.314,7.96716443 L21.219,10.6861644 C21.701,10.9541644 22,11.4561644 22,12.0001644 C22,12.5441644 21.701,13.0461644 21.219,13.3131644 L16.18,16.1061644 L12.165,12.1041644 L16.314,7.96716443 Z" fill="#FFCB02"></path>
+                        <polygon fill="#06D2FF" points="10.04 12.1041644 -1.86517468e-14 22.1151644 -1.86517468e-14 2.09316443"></polygon>
+                        <path d="M0.571,23.6641644 L11.102,13.1631644 L14.814,16.8641644 L2.295,23.8051644 C1.819,24.0691644 1.236,24.0641644 0.763,23.7941644 L0.571,23.6641644 Z" fill="#F6364A"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

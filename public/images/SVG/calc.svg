@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <g id="合约交易" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <g id="合约交易_切换交易对" transform="translate(-1838.000000, -113.000000)">
+            <g id="编组-3" transform="translate(0.000000, 101.000000)">
+                <g id="编组-82" transform="translate(1600.000000, 0.000000)">
+                    <g id="编组-20" transform="translate(238.000000, 12.000000)">
+                        <g id="编组-8">
+                            <rect id="矩形" x="0" y="0" width="32" height="32" rx="4"></rect>
+                            <path d="M23,6 C24.1045695,6 25,6.8954305 25,8 L25,24 C25,25.1045695 24.1045695,26 23,26 L9,26 C7.8954305,26 7,25.1045695 7,24 L7,8 C7,6.8954305 7.8954305,6 9,6 L23,6 Z M23,8 L9,8 L9,24 L23,24 L23,8 Z M13,20 L13,22 L11,22 L11,20 L13,20 Z M17,20 L17,22 L15,22 L15,20 L17,20 Z M21,20 L21,22 L19,22 L19,20 L21,20 Z M13,16 L13,18 L11,18 L11,16 L13,16 Z M17,16 L17,18 L15,18 L15,16 L17,16 Z M21,16 L21,18 L19,18 L19,16 L21,16 Z M21,10 L21,14 L11,14 L11,10 L21,10 Z" id="形状结合" fill="#615976"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

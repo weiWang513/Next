@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#220A60" offset="0%"></stop>
+            <stop stop-color="#6024FD" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="28" width="400" height="376" rx="8"></rect>
+        <filter x="-10.0%" y="-8.5%" width="120.0%" height="121.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <g id="Home_快捷买币" transform="translate(-1402.000000, -372.000000)">
+            <rect fill="#F5F3FB" x="0" y="0" width="1920" height="3351"></rect>
+            <g id="编组-22">
+                <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="1920" height="767"></rect>
+                <g id="编组-9" transform="translate(1170.000000, 92.000000)">
+                    <g id="矩形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#FFFFFF" fillRule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="编组-5" transform="translate(32.000000, 279.000000)">
+                        <g transform="translate(200.000000, 1.000000)">
+                            <rect id="矩形" x="0" y="0" width="20" height="20"></rect>
+                            <path d="M10,16 C13.3137085,16 16,13.3137085 16,10 C16,6.6862915 13.3137085,4 10,4 C6.6862915,4 4,6.6862915 4,10 C4,13.3137085 6.6862915,16 10,16 Z M10,6 C10.5522847,6 11,6.44771525 11,7 C11,7.55228475 10.5522847,8 10,8 C9.44771525,8 9,7.55228475 9,7 C9,6.44771525 9.44771525,6 10,6 Z M10,9 C10.5522847,9 11,9.44771525 11,10 L11,13 C11,13.5522847 10.5522847,14 10,14 C9.44771525,14 9,13.5522847 9,13 L9,10 C9,9.44771525 9.44771525,9 10,9 Z" id="形状结合" fill="#AAA4BB"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

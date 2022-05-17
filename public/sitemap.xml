@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://ccfox.com/</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/login</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.2</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/register</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.2</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/contractMarket</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/contract/BTC_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+
+      <url>
+      <loc>https://ccfox.com/contract/ETH_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/contract/LTC_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/contract/EOS_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/contract/BCH_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/contract/UNI_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/contract/DOT_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/contract/FIL_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+   
+   <url>
+
+      <loc>https://ccfox.com/contract/SUSHI_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/contract/LINK_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://ccfox.com/contract/DOGE_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+   </url>
+   <url>
+
+      <loc>https://ccfox.com/contract/AXS_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+    </url>
+    <url>
+
+      <loc>https://ccfox.com/contract/ICP_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+    </url>
+    <url>
+
+      <loc>https://ccfox.com/contract/ADA_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+    </url>
+     <url>
+
+      <loc>https://ccfox.com/contract/FTM_USDT</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+    </url>
+     <url>
+
+      <loc>https://ccfox.com/contract/BTC_USD-R</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+    </url>
+     <url>
+
+      <loc>https://ccfox.com/contract/ETH_USD-R</loc>
+      <lastmod>2021-12-06</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+
+    </url>
+
+</urlset>

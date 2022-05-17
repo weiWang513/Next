@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <desc>Created with Sketch.</desc>
+    <g id="合约交易" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+        <g id="调整杠杆_3" transform="translate(-108.000000, -272.000000)" fill="#FFB625">
+            <g id="编组-100" transform="translate(56.000000, 56.000000)">
+                <g id="编组-60备份" transform="translate(24.000000, 212.000000)">
+                    <g id="编组-63" transform="translate(28.000000, 4.000000)">
+                        <path d="M10,4 C13.3137085,4 16,6.6862915 16,10 C16,13.3137085 13.3137085,16 10,16 C6.6862915,16 4,13.3137085 4,10 C4,6.6862915 6.6862915,4 10,4 Z M10,12 C9.44771525,12 9,12.4477153 9,13 C9,13.5522847 9.44771525,14 10,14 C10.5522847,14 11,13.5522847 11,13 C11,12.4477153 10.5522847,12 10,12 Z M10,6 C9.44771525,6 9,6.44771525 9,7 L9,7 L9,10 C9,10.5522847 9.44771525,11 10,11 C10.5522847,11 11,10.5522847 11,10 L11,10 L11,7 C11,6.44771525 10.5522847,6 10,6 Z" id="形状结合"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
